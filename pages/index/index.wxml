@@ -9,19 +9,19 @@
   circular
 >
   <swiper-item>
-    <image src="/uploads/slide_1.jpg" />
+    <image src="https://jslwq.github.io/-/uploads/slide_1.jpg" />
   </swiper-item>
   <swiper-item>
-    <image src="/uploads/slide_2.jpg" />
+    <image src="https://jslwq.github.io/-/uploads/slide_2.jpg" />
   </swiper-item>
   <swiper-item>
-    <image src="/uploads/slide_3.jpg" />
+    <image src="https://jslwq.github.io/-/uploads/slide_3.jpg" />
   </swiper-item>
   <swiper-item>
-    <image src="/uploads/slide_4.jpg" />
+    <image src="https://jslwq.github.io/-/uploads/slide_4.jpg" />
   </swiper-item>
   <swiper-item>
-    <image src="/uploads/slide_5.jpg" />
+    <image src="https://jslwq.github.io/-/uploads/slide_5.jpg" />
   </swiper-item>
 </swiper>
 
@@ -29,7 +29,7 @@
 
 <view class="content">
   <navigator>
-    <image src="/uploads/item_1.png"></image>
+    <image src="https://jslwq.github.io/-/uploads/item_1.png"></image>
   </navigator>
   <view class="content_info">
     <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
@@ -42,7 +42,7 @@
 </view>
 <view class="content">
   <navigator>
-    <image src="/uploads/item_2.png"></image>
+    <image src="https://jslwq.github.io/-/uploads/item_2.png"></image>
   </navigator>
   <view class="content_info">
     <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
@@ -55,7 +55,7 @@
 </view>
 <view class="content">
   <navigator>
-    <image src="/uploads/item_3.png"></image>
+    <image src="https://jslwq.github.io/-/uploads/item_3.png"></image>
   </navigator>
   <view class="content_info">
     <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
@@ -68,7 +68,7 @@
 </view>
 <view class="content">
   <navigator>
-    <image src="/uploads/item_4.png"></image>
+    <image src="https://jslwq.github.io/-/uploads/item_4.png"></image>
   </navigator>
   <view class="content_info">
     <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
