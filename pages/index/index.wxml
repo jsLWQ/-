@@ -1,0 +1,81 @@
+<!--index.wxml-->
+<swiper
+  class="info"
+  indicator-dots
+  indicator-color="rgba(255,255,255,.6)"
+  indicator-active-color="#FFFFFF"
+  autoplay
+  interval="1500"
+  circular
+>
+  <swiper-item>
+    <image src="/uploads/slide_1.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/uploads/slide_2.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/uploads/slide_3.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/uploads/slide_4.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image src="/uploads/slide_5.jpg" />
+  </swiper-item>
+</swiper>
+
+<view class="title">乐园活动</view>
+
+<view class="content">
+  <navigator>
+    <image src="/uploads/item_1.png"></image>
+  </navigator>
+  <view class="content_info">
+    <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="content_bottom">
+      <text class="content_bottom_left">200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="content_right">免费</view>
+  </view>
+</view>
+<view class="content">
+  <navigator>
+    <image src="/uploads/item_2.png"></image>
+  </navigator>
+  <view class="content_info">
+    <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="content_bottom">
+      <text class="content_bottom_left">200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="content_right">免费</view>
+  </view>
+</view>
+<view class="content">
+  <navigator>
+    <image src="/uploads/item_3.png"></image>
+  </navigator>
+  <view class="content_info">
+    <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="content_bottom">
+      <text class="content_bottom_left">200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="content_right">免费</view>
+  </view>
+</view>
+<view class="content">
+  <navigator>
+    <image src="/uploads/item_4.png"></image>
+  </navigator>
+  <view class="content_info">
+    <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="content_bottom">
+      <text class="content_bottom_left">200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <view class="content_right">免费</view>
+  </view>
+</view>
