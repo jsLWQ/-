@@ -34,7 +34,7 @@
   <view class="content_info">
     <view class="content_te">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
     <view class="content_bottom">
-      <text class="content_bottom_left">200人已报名</text>
+      <text class="content_bottom_left icon-delete">200人已报名</text>
       <text>本周六开始</text>
     </view>
     <view class="content_right">免费</view>

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?b65hyj');
-  src:  url('fonts/icomoon.eot?b65hyj#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?b65hyj') format('truetype'),
-    url('fonts/icomoon.woff?b65hyj') format('woff'),
-    url('fonts/icomoon.svg?b65hyj#icomoon') format('svg');
+  src:  url('https://jslwq.github.io/-/fonts/icomoon.eot?b65hyj');
+  src:  url('https://jslwq.github.io/-/fonts/icomoon.eot?b65hyj#iefix') format('embedded-opentype'),
+    url('https://jslwq.github.io/-/fonts/icomoon.ttf?b65hyj') format('truetype'),
+    url('https://jslwq.github.io/-/fonts/icomoon.woff?b65hyj') format('woff'),
+    url('https://jslwq.github.io/-/fonts/icomoon.svg?b65hyj#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
